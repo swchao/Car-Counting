@@ -1,5 +1,5 @@
 
-# 廣宣科技 廣宣學堂 Car-Couting
+# 廣宣科技 廣宣學堂 Car-Counting
 # 車輛流量偵測課程 講師: Paul Chao 
 
 請將 ipynb 以 [Google Colaboratory](https://colab.research.google.com/) 打開使用
